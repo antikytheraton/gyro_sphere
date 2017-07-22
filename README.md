@@ -4,4 +4,4 @@ sphere animation
 
 
 
-![](./circuit/esquema.PNG)
+![](./circuit/esquema.png)
